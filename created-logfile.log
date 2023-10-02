@@ -1,0 +1,4 @@
+{"foo":"bar","level":"info","message":"Hello created log files!"}
+{"foo":"bar","level":"info","message":"Hello created log files!"}
+info: Hello created log files! {"foo":"bar","label":"[my-service]","timestamp":"02-10-2023 21:14:40"}
+info: Hello created log files! {"foo":"bar","label":"[my-service]","timestamp":"02-10-2023 21:14:40"}
